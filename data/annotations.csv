@@ -1,0 +1,10 @@
+image_path,value
+data/train/100_DA\100da_front2.jpg,100.0
+data/train/100_DA\200da_back.jpg,100.0
+data/train/200_DA\200da_back3.jpg,200.0
+data/train/200_DA\200da_front.jpg,200.0
+data/train/20_DA\20da_back.jpeg,20.0
+data/train/20_DA\20da_front.jpeg,20.0
+data/train/50_DA\50da_back2.jpg,50.0
+data/train/50_DA\50da_front2.jpg,50.0
+data/train/50_DA\50da_front3.jpeg,50.0
